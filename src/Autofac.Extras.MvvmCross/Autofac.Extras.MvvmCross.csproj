@@ -34,7 +34,7 @@
 
   <ItemGroup>
     <PackageReference Include="Autofac" Version="4.9.4" />
-    <PackageReference Include="MvvmCross" Version="6.3.1" />
+    <PackageReference Include="MvvmCross" Version="6.4.1" />
   </ItemGroup>
 
   <ItemGroup>
